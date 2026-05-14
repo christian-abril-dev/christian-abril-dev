@@ -55,8 +55,10 @@ ProyectoDescripciónTecnologíasBotWhatsapp-SpringAPI REST en Java con Spring Bo
 
 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=christian-abril-dev&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christian-abril-dev&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=christian-abril-dev&theme=tokyonight&hide_border=true&locale=es" height="150"/>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=christian-abril-dev&label=Visitas+al+perfil&color=1A56DB&style=flat" />
 </p>
 
 <p align="center">
